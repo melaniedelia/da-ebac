@@ -10,7 +10,7 @@
 - Verify the file within your reference.
 
 #### Module 18 EBAC :
-Analysis of the best price of the essence in the city of São Paulo within the 10 premiers of juillet 2021.
+Analysis of the best price of the gasoil in the city of São Paulo within the 10 premiers of juillet 2021.
 - Generate a graph line with Python packages (Pandas and Seaborn).
 - Generate the Python code from the gasoil.py file.
 - Use the git commands.
